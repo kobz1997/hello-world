@@ -1,7 +1,2 @@
 # hello-world
-
-
-
-
-its kobz.....................
-
+Just other repository
